@@ -20,6 +20,10 @@
 
 <img src="figures/a-roadmap-for-big-model-07.png" width="400">
 
+滑铁卢大学教授Gautam Kanmath[回复该推特](https://twitter.com/thegautamkamath/status/1513972032664391686?s=20&t=Xkr8jdNoK6FuePXPl593nA)，并指出该论文在arXiv页面被管理员标注为“text overlap”（文字重复），即便如此，A Roadmap to Big Model的作者也没有选择修改相关章节。
+
+<img src="figures/a-roadmap-for-big-model-08.png" width="400">
+
 2022年4月12日下午，该事件[被转发到Reddit r/MachineLearning社区](https://www.reddit.com/r/MachineLearning/comments/u27xf2/n_substantial_plagiarism_in_baais_a_road_map_for/)，引起广泛讨论。
 
 <img src="figures/a-roadmap-for-big-model-06.png" width="600">
