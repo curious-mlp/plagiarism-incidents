@@ -18,12 +18,12 @@ plagiarism-incidents项目很重要的一个部分是对于过去学术不端行
 
 我们应本着严肃的态度整理事件相关资料：
 
-欢迎的方式（:thumbsup:）
+欢迎的方式：
 * :thumbsup: 合适的引用他人客观的评论
 * :thumbsup: 对于事件内容的报道加入正确的饮用
 * :thumbsup: 将重要的资料保存为图片或PDF格式
 
-不欢迎的方式（:thumbsup:）
+不欢迎的方式：
 * :thumbsdown: 讽刺、反讽、暗讽
 * :thumbsdown: 带有强烈感情色彩的语言攻击
 * :thumbsdown: 改编的苏联政治笑话
