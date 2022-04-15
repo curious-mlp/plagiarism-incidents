@@ -8,7 +8,7 @@
 
 <img src="figures/a-roadmap-for-big-model-04.png" width="400">
 
-[论文A Roadmap for Big Model (v1)](pdf/2203.14101v1.pdf)<sup>[1](#footnote1)</sup> [论文Deduplicating Training Data Makes Language Models Better (v2)](pdf/2107.06499.pdf) [Nicholas Carlini发表的博客](pdf/A-Case-of-Plagarism-in-Machine-Learning-Research.pdf)
+[论文A Roadmap for Big Model (v1)](pdf/2203.14101v1.pdf) <sup>[1](#footnote1)</sup> [论文Deduplicating Training Data Makes Language Models Better (v2)](pdf/2107.06499.pdf) [Nicholas Carlini发表的博客](pdf/A-Case-of-Plagarism-in-Machine-Learning-Research.pdf)
 
 ### Twitter热议
 
