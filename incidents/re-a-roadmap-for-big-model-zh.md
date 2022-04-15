@@ -4,7 +4,7 @@
 
 ### 缘起
 
-2022年4月8日，Nicholas Carlini在个人主页发表了[一篇博客](https://nicholas.carlini.com/writing/2022/a-case-of-plagarism-in-machine-learning.html)，指出arXiv预印论文[A Roadmap for Big Model](https://arxiv.org/abs/2203.14101)中部分章节抄袭了他的论文[Deduplicating Training Data Makes Language Models Better](https://arxiv.org/abs/2107.06499)，并展示了抄袭部分的文字比较（见下图），同时他指出，A Roadmap for Big Model可能同时抄袭了十余篇其他论文。
+2022年4月8日，Nicholas Carlini在个人主页发表了[一篇博客](https://nicholas.carlini.com/writing/2022/a-case-of-plagarism-in-machine-learning.html)，指出arXiv预印论文[A Roadmap for Big Model](https://arxiv.org/abs/2203.14101)（下称Big Model论文）中部分章节抄袭了他的论文[Deduplicating Training Data Makes Language Models Better](https://arxiv.org/abs/2107.06499)，并展示了抄袭部分的文字比较（见下图），同时他指出，A Roadmap for Big Model可能同时抄袭了十余篇其他论文。
 
 <img src="figures/a-roadmap-for-big-model-04.png" width="400">
 
@@ -32,9 +32,13 @@
 
 ### 知乎讨论
 
-2022年4月22日下午，该事件[在知乎上的到广泛讨论](https://www.zhihu.com/question/527620020)，随后以13M热度登上知乎热榜。
+2022年4月22日下午，该事件[在知乎上的到广泛讨论](https://www.zhihu.com/question/527620020)，随后以13M热度登上知乎热榜。非常多的用户对于此次事件发表了自己的看法，推荐移步知乎了解更多细节和相关讨论。
 
 <img src="figures/a-roadmap-for-big-model-09.png" width="400">
+
+一位自称Big Model论文的junior作者在知乎匿名回应了此次事件并披露了一些成文过程中的细节，提出的一些问题值得思考。
+
+<img src="figures/a-roadmap-for-big-model-10.png" width="600">
 
 [截图1](figures/a-roadmap-for-big-model-09.png)
 
