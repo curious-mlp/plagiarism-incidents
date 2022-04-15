@@ -4,7 +4,7 @@
 
 Please read the contribution guidelines if you want to contribute.
 
-[中文](README-ch.md)
+[中文](README-zh.md)
 
 ## Table of Contents
 
