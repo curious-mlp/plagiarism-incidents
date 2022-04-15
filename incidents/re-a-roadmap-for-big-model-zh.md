@@ -38,9 +38,9 @@
 
 一位自称Big Model论文的junior作者在知乎匿名回应了此次事件并披露了一些成文过程中的细节，提出的一些问题值得思考。
 
-<img src="figures/a-roadmap-for-big-model-10.png" width="600">
+<img src="figures/a-roadmap-for-big-model-10.jpg" width="600">
 
-[截图1](figures/a-roadmap-for-big-model-09.png)
+[截图1](figures/a-roadmap-for-big-model-09.png) [截图2](figures/a-roadmap-for-big-model-10.jpg)
 
 ### 官方回应
 
