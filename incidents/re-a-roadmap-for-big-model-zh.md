@@ -8,4 +8,4 @@
 
 ![官方调查回应](figures/a-roadmap-for-big-model-01.png)
 
-[截图1](figures/a-roadmap-for-big-model-00.png)[截图2](figures/a-roadmap-for-big-model-01.png)[截图3](figures/a-roadmap-for-big-model-02.png)[截图4](figures/a-roadmap-for-big-model-03.png)
+[截图1](figures/a-roadmap-for-big-model-00.png) [截图2](figures/a-roadmap-for-big-model-01.png) [截图3](figures/a-roadmap-for-big-model-02.png) [截图4](figures/a-roadmap-for-big-model-03.png)
