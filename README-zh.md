@@ -2,7 +2,9 @@
 
 > 一些学术界（涉嫌）抄袭事件的整理。
 
-请阅读社区贡献指南以了解如何分享您的信息。
+[为什么创建plagiarism-incidents？](WHY-THIS-REPO-zh.md)
+
+请阅读[社区贡献指南](CONTRIBUTING-zh.md)以了解如何分享您的信息。
 
 ## 目录
 
