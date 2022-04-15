@@ -4,11 +4,19 @@
 
 ### 缘起
 
-2022年4月8日，Google Brain研究员Nicholas Carlini在个人主页发表了[一篇博客](https://nicholas.carlini.com/writing/2022/a-case-of-plagarism-in-machine-learning.html)，指出arXiv预印论文[A Roadmap for Big Model](https://arxiv.org/abs/2203.14101)中部分章节抄袭了他的论文[Deduplicating Training Data Makes Language Models Better](https://arxiv.org/abs/2107.06499)，并展示了抄袭部分的文字比较（见下图），同时他指出，A Roadmap for Big Model可能抄袭了十余篇其他论文。
+2022年4月8日，Nicholas Carlini在个人主页发表了[一篇博客](https://nicholas.carlini.com/writing/2022/a-case-of-plagarism-in-machine-learning.html)，指出arXiv预印论文[A Roadmap for Big Model](https://arxiv.org/abs/2203.14101)中部分章节抄袭了他的论文[Deduplicating Training Data Makes Language Models Better](https://arxiv.org/abs/2107.06499)，并展示了抄袭部分的文字比较（见下图），同时他指出，A Roadmap for Big Model可能同时抄袭了十余篇其他论文。
 
 <img src="figures/a-roadmap-for-big-model-04.png" width="400">
 
 [论文A Roadmap for Big Model (v1)](pdf/2203.14101v1.pdf)<sup>[1](#footnote1)</sup> [论文Deduplicating Training Data Makes Language Models Better (v2)](pdf/2107.06499.pdf) [Nicholas Carlini发表的博客](pdf/A-Case-of-Plagarism-in-Machine-Learning-Research.pdf)
+
+### Twitter热议
+
+2022年4月12日，被抄袭论文的一作Katherine Lee在[推特转发](https://twitter.com/katherine1ee/status/1513938735028654083?s=20&t=Xkr8jdNoK6FuePXPl593nA)了Nicholas Carlini的博客，并表示论文中复制文字应用引号注明，并明确的引用相关论文。该推特得到了广泛的关注，并在推特引起热议。截至目前已经获得1,333点赞以及212转发。
+
+<img src="figures/a-roadmap-for-big-model-05.png" width="600">
+
+[截图1](figures/a-roadmap-for-big-model-05.png)
 
 ### 官方回应
 
