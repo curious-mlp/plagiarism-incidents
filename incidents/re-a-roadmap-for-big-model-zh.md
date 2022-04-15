@@ -18,7 +18,7 @@
 
 [ViT](https://arxiv.org/abs/2010.11929)作者Lucas Beyer转发了该推特，表示希望此次事件不会以“临时工背锅”的方式潦草收尾。
 
-<img src="figures/a-roadmap-for-big-model-07.png" width="600">
+<img src="figures/a-roadmap-for-big-model-07.png" width="400">
 
 2022年4月12日下午，该事件[被转发到Reddit r/MachineLearning社区](https://www.reddit.com/r/MachineLearning/comments/u27xf2/n_substantial_plagiarism_in_baais_a_road_map_for/)，引起广泛讨论。
 
