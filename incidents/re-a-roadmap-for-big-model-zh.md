@@ -30,6 +30,14 @@
 
 [截图1](figures/a-roadmap-for-big-model-05.png) [截图2](figures/a-roadmap-for-big-model-06.png) [截图3](figures/a-roadmap-for-big-model-07.png) [截图4](figures/a-roadmap-for-big-model-08.png) [Reddit页面截图](pdf/Substantial-plagiarism-in-BAAI’s-“a-Road-Map-for-Big-Models”-reddit.pdf)
 
+### 知乎讨论
+
+2022年4月22日下午，该事件[在知乎上的到广泛讨论](https://www.zhihu.com/question/527620020)，随后以13M热度登上知乎热榜。
+
+<img src="figures/a-roadmap-for-big-model-09.png" width="400">
+
+[截图1](figures/a-roadmap-for-big-model-09.png)
+
 ### 官方回应
 
 次日(2022/04/13)，BAAI官方在[知乎](https://zhuanlan.zhihu.com/p/498064778)/[Twitter](https://twitter.com/BAAIBeijing/status/1514311359072288776?s=20&t=YR1SGxxGXQrBSBN2R5HslQ)/[官网](https://www.baai.ac.cn/portal/article/index/cid/4/id/404.html)发布了就此次事件的调查结果，BAAI声称邀请了“第三方专家”进行独立调查，承认了改论文部分章节存在的抄袭行为。官方及时正面回复此次事件的态度值得赞赏，但遗憾的是既没有披露抄袭事件更多的细节，也没有公布对于涉事人员任何的追责惩罚。
