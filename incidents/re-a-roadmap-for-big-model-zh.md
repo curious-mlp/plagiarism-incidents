@@ -20,7 +20,7 @@
 
 <img src="figures/a-roadmap-for-big-model-07.png" width="400">
 
-滑铁卢大学教授Gautam Kanmath[回复](https://twitter.com/thegautamkamath/status/1513972032664391686?s=20&t=Xkr8jdNoK6FuePXPl593nA)，并指出该论文在arXiv页面被管理员标注为“text overlap”（文字重复），即便如此，A Roadmap to Big Model的作者也没有选择修改相关章节。
+滑铁卢大学教授Gautam Kanmath[回复](https://twitter.com/thegautamkamath/status/1513972032664391686?s=20&t=Xkr8jdNoK6FuePXPl593nA)，并指出该论文在arXiv页面被管理员标注为“text overlap”（文字重复），即便如此，Big Model论文的作者也没有选择修改相关章节。
 
 <img src="figures/a-roadmap-for-big-model-08.png" width="400">
 
