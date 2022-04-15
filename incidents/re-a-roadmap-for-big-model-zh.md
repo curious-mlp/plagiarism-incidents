@@ -28,7 +28,7 @@
 
 <img src="figures/a-roadmap-for-big-model-06.png" width="600">
 
-[截图1](figures/a-roadmap-for-big-model-05.png) [截图2](figures/a-roadmap-for-big-model-06.png) [Reddit页面截图](pdf/Substantial-plagiarism-in-BAAI’s-“a-Road-Map-for-Big-Models”-reddit.pdf)
+[截图1](figures/a-roadmap-for-big-model-05.png) [截图2](figures/a-roadmap-for-big-model-06.png) [截图3](figures/a-roadmap-for-big-model-07.png) [截图4](figures/a-roadmap-for-big-model-08.png) [Reddit页面截图](pdf/Substantial-plagiarism-in-BAAI’s-“a-Road-Map-for-Big-Models”-reddit.pdf)
 
 ### 官方回应
 
