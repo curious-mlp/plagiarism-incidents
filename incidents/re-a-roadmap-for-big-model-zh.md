@@ -14,7 +14,7 @@
 
 2022年4月12日，被抄袭论文的一作Katherine Lee在[推特转发](https://twitter.com/katherine1ee/status/1513938735028654083?s=20&t=Xkr8jdNoK6FuePXPl593nA)了Nicholas Carlini的博客，并表示论文中复制文字应用引号注明，并明确的引用相关论文。该推特得到了广泛的关注，并在推特引起热议。截至目前已经获得1,333点赞以及212转发。
 
-<img src="figures/a-roadmap-for-big-model-05.png" width="600">
+<img src="figures/a-roadmap-for-big-model-05.png" width="400">
 
 [截图1](figures/a-roadmap-for-big-model-05.png)
 
