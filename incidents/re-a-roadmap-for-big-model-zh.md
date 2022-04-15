@@ -16,7 +16,11 @@
 
 <img src="figures/a-roadmap-for-big-model-05.png" width="400">
 
-[截图1](figures/a-roadmap-for-big-model-05.png)
+2022年4月12日下午，该事件[被转发到Reddit r/MachineLearning社区](https://www.reddit.com/r/MachineLearning/comments/u27xf2/n_substantial_plagiarism_in_baais_a_road_map_for/)，引起广泛讨论。
+
+<img src="figures/a-roadmap-for-big-model-06.png" width="400">
+
+[截图1](figures/a-roadmap-for-big-model-05.png) [截图2](figures/a-roadmap-for-big-model-06.png) [Reddit页面截图](pdf/Substantial-plagiarism-in-BAAI’s-“a-Road-Map-for-Big-Models”-reddit.pdf)
 
 ### 官方回应
 
