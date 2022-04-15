@@ -6,7 +6,7 @@
 
 2022年4月8日，Google Brain研究员Nicholas Carlini在个人主页发表了[一篇博客](https://nicholas.carlini.com/writing/2022/a-case-of-plagarism-in-machine-learning.html)，指出arXiv预印论文[A Roadmap for Big Model](https://arxiv.org/abs/2203.14101)中部分章节抄袭了他的论文[Deduplicating Training Data Makes Language Models Better](https://arxiv.org/abs/2107.06499)，并展示了抄袭部分的文字比较（见下图），同时他指出，A Roadmap for Big Model可能抄袭了十余篇其他论文。
 
-[A Roadmap for Big Model (v1)<sup>[1](#footnote1)</sup>](pdf/2203.14101v1.pdf) [Deduplicating Training Data Makes Language Models Better (v2)](pdf/2107.06499.pdf)
+[A Roadmap for Big Model (v1)](pdf/2203.14101v1.pdf)<sup>[1](#footnote1)</sup> [Deduplicating Training Data Makes Language Models Better (v2)](pdf/2107.06499.pdf)
 
 ### 官方回应
 
